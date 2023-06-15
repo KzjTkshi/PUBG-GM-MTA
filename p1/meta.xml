@@ -1,0 +1,11 @@
+<meta>
+
+	<script src="client.lua" type="client"/>
+
+	<file src="443.txd"/>
+
+	<file src="443.dff"/>
+
+</meta>	
+
+	
